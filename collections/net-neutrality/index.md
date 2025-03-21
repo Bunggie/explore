@@ -1,4 +1,4 @@
----
+<HTML
 items:
  - EFForg/action-center-platform
  - fightforthefuture/battleforthenet
